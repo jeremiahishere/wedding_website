@@ -281,7 +281,7 @@ hr {
 }
 
 .bg-gray {
-	background: #f8f8f8;
+	background: #e7e7e7;
 }
 
 
@@ -306,7 +306,7 @@ hr {
 	position:relative;
 	
 	background: url(../img/hemphill.jpg) no-repeat center;
-  background-size: 80%;
+  background-size: 100%;
 }
 
 #intro.intro {
